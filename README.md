@@ -191,7 +191,7 @@ sudo apt-get install git
     JSON
       {
             success : true,
-            msg: "You like"
+            msg: "You liked"
         }
     ```
 
